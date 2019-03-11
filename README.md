@@ -6,3 +6,4 @@ Apa saja yang harus di sediakan?
  2.Install python
  3.Install paramiko
  4.Router Mikrotik(jika tidak punya bisa menggunakan virtual box)
+# config-router-with-python3
